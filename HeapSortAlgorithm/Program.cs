@@ -76,8 +76,6 @@ namespace HeapSortAlgorithm
         heapsize = heapsize - 1;
         MaxHeapify(array, 0);
       }
-
-
     }
 
   }
